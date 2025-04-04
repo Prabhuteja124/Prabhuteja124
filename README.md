@@ -1,6 +1,6 @@
 ---
 
-## 🔹 About Me  
+## 🔹 About  
 - 📊 I love exploring **Data Science, Machine Learning, and AI**  
 - 🧠 Building **ML models & GenAI applications**  
 - 💻 Working on **end-to-end projects**  
@@ -17,7 +17,7 @@
 ---
 
 ## 🔹 Let's Connect! 
-📫 Email: [mailto:prabhuteja124@gmail.com]  
+📫 Email: [prabhuteja124@gmail.com]  
 🔗 LinkedIn: [www.linkedin.com/in/prabhu-teja-29a484338]  
 🔗 GitHub: [https://github.com/Prabhuteja124]
 
