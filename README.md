@@ -17,9 +17,9 @@
 ---
 
 ## 🔹 Let's Connect! 
-📫 Email: [your-email@example.com](mailto:prabhuteja124@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/yourname](www.linkedin.com/in/prabhu-teja-29a484338)  
-🔗 GitHub: [github.com/Prabhuteja124](https://github.com/Prabhuteja124)  
+📫 Email: [mailto:prabhuteja124@gmail.com]  
+🔗 LinkedIn: [www.linkedin.com/in/prabhu-teja-29a484338]  
+🔗 GitHub: [https://github.com/Prabhuteja124]
 
 
 
