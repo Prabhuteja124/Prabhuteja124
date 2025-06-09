@@ -1,65 +1,67 @@
 # Prabhu Teja
 
-## About Me  
-I’m a passionate aspiring Data Scientist with a strong foundation in Data Science, Machine Learning, and AI. I enjoy tackling complex problems through end-to-end projects, building predictive models, and developing AI-driven applications. My goal is to leverage data to drive impactful solutions and grow into a skilled Data Scientist.  
-Currently, I’m honing my skills through hands-on projects, including real-time machine learning applications and generative AI tools, while continuously learning industry-relevant technologies.
+## About Me
 
----
+I am a Data Scientist and AI Engineer with a strong foundation in mathematics, machine learning, and deep learning. My work focuses on building scalable machine learning systems that deliver measurable results. I specialize in transforming raw data into predictive models, deploying AI-powered applications, and developing solutions that align with real-world business needs.
 
-## Skills & Tools
+I take pride in building end-to-end systems — from data exploration and model development to deployment and monitoring. Whether it’s a regression model for salary prediction, a classification system for customer churn, or a time series forecasting tool for inventory optimization, I focus on both precision and production-readiness.
 
-**Programming**  
-Python, SQL, Flask, Streamlit  
+## What I Do
 
-**Data Science**  
-Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow  
+- Build and optimize machine learning models for structured data problems  
+- Develop AI applications using TensorFlow, Keras, and deep learning workflows  
+- Handle full ML pipelines: data cleaning, feature engineering, validation, and tuning  
+- Create interactive dashboards and insights using Power BI, Tableau, and Seaborn  
+- Deploy ML models using Flask, Streamlit, and Docker  
+- Apply time series forecasting techniques to real-world demand problems  
 
-**Cloud & DevOps**  
-Docker, Git, GitHub, AWS (basic)  
+## Skills & Technologies
 
-**Machine Learning**  
-Supervised and unsupervised learning (e.g., regression, classification, clustering), time series forecasting  
+**Languages**  
+Python, SQL
 
----
+**Machine Learning & AI**  
+Linear & Logistic Regression, Random Forest, XGBoost, LightGBM, CatBoost, SVM  
+Scikit-learn, TensorFlow, Keras  
+Prophet, ARIMA, SARIMA
 
-## Education & Training
+**Techniques**  
+EDA, Feature Engineering, SMOTE, Grid Search, Hyperparameter Tuning, Model Evaluation, Cross-Validation
 
-**Data Science and AI Course (Ongoing)**  
-Gained expertise in Python, SQL, machine learning (supervised and unsupervised), deep learning basics, and data visualization tools like Power BI and Tableau.  
-Self-taught skills through online resources, GitHub repositories, and real-world project development.
+**Visualization**  
+Power BI, Tableau, Matplotlib, Seaborn, Plotly
 
----
+**Deployment & Tools**  
+Flask, Streamlit, Docker, Jupyter Notebook, Google Colab
 
-## Goals
+**Databases & Version Control**  
+MySQL, SQLite, Git, GitHub, VS Code
 
-- Contribute to open-source Data Science projects  
-- Deepen expertise in advanced ML techniques (e.g., deep learning, reinforcement learning)  
-- Build scalable, production-ready AI applications for real-world impact  
+## Featured Projects
 
----
+**[Texas Salary Prediction](https://github.com/Prabhuteja124/Texas-salary-prediction)**  
+Developed a regression model using XGBoost (R² = 0.856) to predict state employee salaries. Focused on feature importance, model evaluation, and deployment-readiness.
 
-## Let’s Connect
+**[Customer Churn Prediction](https://github.com/Prabhuteja124/Churn-Analysis-project)**  
+Built a classification model that achieved 84% recall using SMOTE and logistic regression. Evaluated against multiple ensemble models.
+
+**Customer Transaction Prediction**  
+Designed a multi-stage ML pipeline to predict customer transactions, including class balancing, threshold tuning, and feature optimization.
+
+**Spare Parts Demand Forecasting (In Progress)**  
+Forecasting service center inventory using SARIMA and Prophet models. Emphasis on temporal decomposition and model performance (RMSE, MAE).
+
+## Career Goals
+
+- Contribute to impactful AI and data-driven projects  
+- Deepen expertise in deep learning, MLOps, and time series modeling  
+- Work on real-world systems that bridge data science and software engineering  
+- Collaborate with teams building intelligent, ethical, and scalable solutions
+
+## Contact
 
 **Email:** prabhuteja124@gmail.com  
-**LinkedIn:** [www.linkedin.com/in/prabhu-teja-29a484338](https://www.linkedin.com/in/prabhu-teja-29a484338)  
-**GitHub:** [https://github.com/Prabhuteja124](https://github.com/Prabhuteja124)  
+**LinkedIn:** [linkedin.com/in/prabhu-teja-29a484338](https://linkedin.com/in/prabhu-teja-29a484338)  
+**GitHub:** [github.com/Prabhuteja124](https://github.com/Prabhuteja124)
 
-Feel free to reach out to collaborate on projects, discuss Data Science, or explore opportunities!
-
-
-
-
-<!--
-**Prabhuteja124/Prabhuteja124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect, collaborate, or discuss opportunities in Data Science and AI.
