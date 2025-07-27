@@ -2,66 +2,68 @@
 
 ## About Me
 
-I am a Data Scientist and AI Engineer with a strong foundation in mathematics, machine learning, and deep learning. My work focuses on building scalable machine learning systems that deliver measurable results. I specialize in transforming raw data into predictive models, deploying AI-powered applications, and developing solutions that align with real-world business needs.
+I am a Data Scientist with hands-on experience delivering real-world ML solutions as an intern at Rubixe Technology Limited. I specialize in building, evaluating, and deploying predictive models that solve high-impact business problems.
 
-I take pride in building end-to-end systems — from data exploration and model development to deployment and monitoring. Whether it’s a regression model for salary prediction, a classification system for customer churn, or a time series forecasting tool for inventory optimization, I focus on both precision and production-readiness.
+My expertise spans both traditional ML and modern AI applications, including time series forecasting, NLP, and deep learning. From EDA and feature engineering to model optimization and deployment, I focus on end-to-end pipeline delivery with measurable outcomes.
 
 ## What I Do
 
-- Build and optimize machine learning models for structured data problems  
-- Develop AI applications using TensorFlow, Keras, and deep learning workflows  
-- Handle full ML pipelines: data cleaning, feature engineering, validation, and tuning  
-- Create interactive dashboards and insights using Power BI, Tableau, and Seaborn  
-- Deploy ML models using Flask, Streamlit, and Docker  
-- Apply time series forecasting techniques to real-world demand problems  
+- Build scalable machine learning pipelines using Python and industry-standard libraries  
+- Perform in-depth exploratory data analysis (EDA) and feature engineering  
+- Forecast trends and optimize inventory with time series models like Prophet and ARIMA  
+- Design NLP applications for sentiment analysis and customer feedback mining  
+- Deploy AI systems using FastAPI, Streamlit, and Docker  
+- Collaborate cross-functionally to translate data into actionable insights  
 
-## Skills & Technologies
+## Technical Skills
 
-**Languages**  
+**Languages:**  
 Python, SQL
 
-**Machine Learning & AI**  
-Linear & Logistic Regression, Random Forest, XGBoost, LightGBM, CatBoost, SVM  
-Scikit-learn, TensorFlow, Keras  
-Prophet, ARIMA, SARIMA
+**Machine Learning & AI:**  
+Linear & Logistic Regression, Decision Trees, XGBoost, LightGBM, CatBoost, Random Forest, SVM, KNN  
+Time Series (ARIMA, SARIMA, Prophet), Clustering, Dimensionality Reduction
 
-**Techniques**  
-EDA, Feature Engineering, SMOTE, Grid Search, Hyperparameter Tuning, Model Evaluation, Cross-Validation
+**Deep Learning & GenAI:**  
+ANN, CNN, RNN, Transfer Learning, TensorFlow, Keras, OpenAI API, Gemini 1.5, LangChain
 
-**Visualization**  
-Power BI, Tableau, Matplotlib, Seaborn, Plotly
+**NLP:**  
+Text Classification, Sentiment Analysis, Topic Modeling, NLTK, SpaCy, Gensim
 
-**Deployment & Tools**  
-Flask, Streamlit, Docker, Jupyter Notebook, Google Colab
+**Tools & Frameworks:**  
+Scikit-learn, FastAPI, Streamlit, Flask, Docker, Power BI, Tableau, Plotly  
+Jupyter Notebook, Google Colab, Git, GitHub, VS Code  
 
-**Databases & Version Control**  
-MySQL, SQLite, Git, GitHub, VS Code
+**Databases:**  
+MySQL, SQLite  
 
 ## Featured Projects
 
-**[Texas Salary Prediction](https://github.com/Prabhuteja124/Texas-salary-prediction)**  
-Developed a regression model using XGBoost (R² = 0.856) to predict state employee salaries. Focused on feature importance, model evaluation, and deployment-readiness.
+### [Spare Parts Demand Forecasting](https://github.com/Prabhuteja124/Inventory-Demand-Forecasting)  
+Forecasted daily and weekly demand using Prophet, ARIMA, and SARIMA. Helped improve inventory planning by reducing forecast error.
 
-**[Customer Churn Prediction](https://github.com/Prabhuteja124/Churn-Analysis-project)**  
-Built a classification model that achieved 84% recall using SMOTE and logistic regression. Evaluated against multiple ensemble models.
+### [Sentiment Analysis NLP](https://github.com/Prabhuteja124/Sentiment-Analysis-NLP.git)  
+Built a real-time sentiment classifier using TF-IDF, RidgeClassifier, and FastAPI. Included robust testing with pytest and model packaging with joblib.
 
-**Customer Transaction Prediction**  
-Designed a multi-stage ML pipeline to predict customer transactions, including class balancing, threshold tuning, and feature optimization.
+### [Employee Performance Prediction](https://github.com/Prabhuteja124/Employee-Performance-Analysis.git)  
+Achieved 94% accuracy using LightGBM. Handled SMOTE, PCA, and full ML pipeline for performance classification.
 
-**Spare Parts Demand Forecasting (In Progress)**  
-Forecasting service center inventory using SARIMA and Prophet models. Emphasis on temporal decomposition and model performance (RMSE, MAE).
+### [Texas Salary Prediction](https://github.com/Prabhuteja124/Texas-salary-prediction)  
+Used XGBoost (R² = 0.856) to predict salaries of state employees. Focused on model explainability and deployment-readiness.
 
 ## Career Goals
 
-- Contribute to impactful AI and data-driven projects  
-- Deepen expertise in deep learning, MLOps, and time series modeling  
-- Work on real-world systems that bridge data science and software engineering  
-- Collaborate with teams building intelligent, ethical, and scalable solutions
+- Advance skills in Deep Learning, NLP, and MLOps  
+- Contribute to production-grade AI systems  
+- Collaborate on impactful open-source and client-based projects  
+- Become a versatile Data Scientist bridging statistical rigor with software engineering  
 
-## Contact
+## Let’s Connect
 
 **Email:** prabhuteja124@gmail.com  
 **LinkedIn:** [linkedin.com/in/prabhu-teja-29a484338](https://linkedin.com/in/prabhu-teja-29a484338)  
 **GitHub:** [github.com/Prabhuteja124](https://github.com/Prabhuteja124)
 
-Feel free to connect, collaborate, or discuss opportunities in Data Science and AI.
+---
+
+> Feel free to connect for collaboration, open-source work, or hiring opportunities!
