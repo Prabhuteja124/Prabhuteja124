@@ -1,69 +1,67 @@
-# Prabhu Teja
+# 👨‍💻 Prabhu Teja Rompalli  
 
-## About Me
+## 🚀 About Me  
 
-I am a Data Scientist with hands-on experience delivering real-world ML solutions as an intern at Rubixe Technology Limited. I specialize in building, evaluating, and deploying predictive models that solve high-impact business problems.
+I’m an **AI & Data Scientist** passionate about designing, building, and deploying **intelligent systems** that combine machine learning, deep learning, and **Generative AI** to solve real-world problems.  
 
-My expertise spans both traditional ML and modern AI applications, including time series forecasting, NLP, and deep learning. From EDA and feature engineering to model optimization and deployment, I focus on end-to-end pipeline delivery with measurable outcomes.
+With hands-on experience as a **Data Scientist Intern at Rubixe AI Solutions**, I’ve developed and deployed end-to-end **forecasting**, **NLP**, and **predictive analytics** pipelines that deliver measurable business value.  
+My work focuses on **AI system architecture**, **retrieval-augmented generation (RAG)**, and **LLM-based solutions** for automation and intelligent decision-making.  
 
-## What I Do
+---
 
-- Build scalable machine learning pipelines using Python and industry-standard libraries  
-- Perform in-depth exploratory data analysis (EDA) and feature engineering  
-- Forecast trends and optimize inventory with time series models like Prophet and ARIMA  
-- Design NLP applications for sentiment analysis and customer feedback mining  
-- Deploy AI systems using FastAPI, Streamlit, and Docker  
-- Collaborate cross-functionally to translate data into actionable insights  
+## ⚡ What I Do  
 
-## Technical Skills
+- 🧠 **Design & Develop** scalable machine learning and deep learning models using **TensorFlow**, **PyTorch**, and **Scikit-learn**  
+- 🔍 **Perform EDA & Feature Engineering** to uncover insights and optimize data pipelines  
+- 📈 **Forecast Trends** and optimize operations with advanced **time-series modeling (Prophet, ARIMA, LSTM)**  
+- 💬 **Build Conversational & NLP Systems** using **Transformers**, **LangChain**, and **OpenAI APIs**  
+- ⚙️ **Deploy AI Applications** via **FastAPI**, **Streamlit**, and **Docker** with an emphasis on performance and scalability  
+- 🤖 **Integrate Generative AI** (RAG, LLMs, Agents) to create AI copilots, document analyzers, and data-driven assistants  
+- 💡 **Collaborate Across Teams** to translate data into actionable insights that enhance decision-making  
 
-**Languages:**  
-Python, SQL
+---
+
+## 🧩 Technical Skills  
+
+**Programming & Tools:**  
+Python, SQL, Git, GitHub, Jupyter Notebook, Google Colab, VS Code  
 
 **Machine Learning & AI:**  
-Linear & Logistic Regression, Decision Trees, XGBoost, LightGBM, CatBoost, Random Forest, SVM, KNN  
-Time Series (ARIMA, SARIMA, Prophet), Clustering, Dimensionality Reduction
+Regression, Classification, Clustering, XGBoost, LightGBM, CatBoost,  
+Time Series (ARIMA, Prophet, LSTM), Feature Engineering, Model Optimization  
 
-**Deep Learning & GenAI:**  
-ANN, CNN, RNN, Transfer Learning, TensorFlow, Keras, OpenAI API, Gemini 1.5, LangChain
+**Deep Learning & Generative AI:**  
+ANN, CNN, RNN, Transformer Models, LangChain, OpenAI APIs, Gemini 1.5,  
+Hugging Face Transformers, Retrieval-Augmented Generation (RAG)  
 
-**NLP:**  
-Text Classification, Sentiment Analysis, Topic Modeling, NLTK, SpaCy, Gensim
+**Natural Language Processing (NLP):**  
+Text Classification, Sentiment Analysis, Summarization, Topic Modeling,  
+NLTK, SpaCy, Gensim  
 
-**Tools & Frameworks:**  
-Scikit-learn, FastAPI, Streamlit, Flask, Docker, Power BI, Tableau, Plotly  
-Jupyter Notebook, Google Colab, Git, GitHub, VS Code  
+**Frameworks & Deployment:**  
+FastAPI, Flask, Streamlit, Docker, Scikit-learn, TensorFlow, PyTorch  
+
+**Visualization & BI:**  
+Power BI, Tableau, Plotly, Excel  
 
 **Databases:**  
 MySQL, SQLite  
 
-## Featured Projects
+---
 
-### [Spare Parts Demand Forecasting](https://github.com/Prabhuteja124/Inventory-Demand-Forecasting)  
-Forecasted daily and weekly demand using Prophet, ARIMA, and SARIMA. Helped improve inventory planning by reducing forecast error.
+## 🎯 Career Vision  
 
-### [Sentiment Analysis NLP](https://github.com/Prabhuteja124/Sentiment-Analysis-NLP.git)  
-Built a real-time sentiment classifier using TF-IDF, RidgeClassifier, and FastAPI. Included robust testing with pytest and model packaging with joblib.
-
-### [Employee Performance Prediction](https://github.com/Prabhuteja124/Employee-Performance-Analysis.git)  
-Achieved 94% accuracy using LightGBM. Handled SMOTE, PCA, and full ML pipeline for performance classification.
-
-### [Texas Salary Prediction](https://github.com/Prabhuteja124/Texas-salary-prediction)  
-Used XGBoost (R² = 0.856) to predict salaries of state employees. Focused on model explainability and deployment-readiness.
-
-## Career Goals
-
-- Advance skills in Deep Learning, NLP, and MLOps  
-- Contribute to production-grade AI systems  
-- Collaborate on impactful open-source and client-based projects  
-- Become a versatile Data Scientist bridging statistical rigor with software engineering  
-
-## Let’s Connect
-
-**Email:** prabhuteja124@gmail.com  
-**LinkedIn:** [linkedin.com/in/prabhu-teja-29a484338](https://linkedin.com/in/prabhu-teja-29a484338)  
-**GitHub:** [github.com/Prabhuteja124](https://github.com/Prabhuteja124)
+To evolve as an **AI Engineer** who bridges **machine learning research** with **production-grade system design**, crafting intelligent solutions that combine reasoning, automation, and explainability.  
+My goal is to contribute to **next-generation AI systems** in **Generative AI, RAG-based retrieval, and adaptive learning agents** that empower businesses and education.  
 
 ---
 
-> Feel free to connect for collaboration, open-source work, or hiring opportunities!
+## 🤝 Let’s Connect  
+
+📧 **Email:** [prabhuteja124@gmail.com](mailto:prabhuteja124@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/prabhu-teja-29a484338](https://linkedin.com/in/prabhu-teja-29a484338)  
+💻 **GitHub:** [github.com/Prabhuteja124](https://github.com/Prabhuteja124)  
+
+---
+
+> 💬 *“Turning mathematical logic and AI systems into intelligent tools that think, reason, and assist — one model at a time.”*
