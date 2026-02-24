@@ -8,6 +8,18 @@ Building production-ready AI systems with measurable business impact through mac
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://prabhuteja124.github.io/project_professional_portfoliomaster/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Prabhuteja124)
 
+---
+
+<div align="center">
+
+### Core Technologies
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,docker,fastapi,react,git,mysql,linux" alt="Tech Stack" />
+
+</div>
+
+---
+
 ## Professional Summary
 
 Data Scientist with hands-on experience developing end-to-end ML solutions across financial analytics, supply chain optimization, and computer vision. Delivered causal pattern analysis framework achieving 67% trading signal accuracy (vs 41% baseline), built time-series forecasting models reducing stockouts by 15% and excess inventory by 20%, and deployed computer vision pipelines with 90%+ accuracy. Proficient in Python, TensorFlow, PyTorch, time-series modeling (ARIMA, Prophet, LSTM), and Generative AI systems (LangChain, RAG, Agentic workflows). Currently focused on building intelligent agents and retrieval-augmented generation architectures for production environments.
@@ -103,6 +115,16 @@ Automated demand forecasting system for spare parts inventory management. Built 
 
 **B.Tech in Electrical & Electronics Engineering**  
 Jawaharlal Nehru Technological University, Kakinada | 2021-2024 | CGPA: 7.29/10
+
+---
+
+<div align="center">
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabhuteja124&show_icons=true&theme=default&hide_border=true&hide=stars&count_private=true)
+
+</div>
 
 ---
 
