@@ -120,9 +120,9 @@ Jawaharlal Nehru Technological University, Kakinada | 2021-2024 | CGPA: 7.29/10
 
 <div align="center">
 
-## GitHub Activity
+### GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabhuteja124&show_icons=true&theme=default&hide_border=true&hide=stars&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Prabhuteja124&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_title=false" alt="GitHub Stats" />
 
 </div>
 
